@@ -1,5 +1,15 @@
 # PQB (Postgresql Query Builder)
 
+```shell
+go get github.com/fritzkeyzer/pqb@v0.0.0
+```
+
+# Warning
+
+`pqb` is in version 0 state. This is developed and maintained by fritzkeyzer and is subject to change.
+
+## About
+
 Contains a set of utilities to assist in crafting postgresql queries.
 
 The intention of this package is not to be a ORM, but a set of composable functions that
